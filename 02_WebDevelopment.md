@@ -7,8 +7,6 @@
 
 ---
 
-Reference[^1]
-
 # Objective
 
 `JavaScript` is a unique language designed specifically for the Web, giving developers the power to create interactive, dynamic websites that respond to user actions in real time. Its role in web development has expanded significantly since its creation, growing from a language used primarily for simple animations and effects to an essential tool for building robust enterprise applications that operate smoothly across devices.
@@ -91,5 +89,6 @@ On the **client side**, JavaScript enables interactive web pages, user input han
 In 2009, the introduction of Node.js extended JavaScript’s reach to **server-side development**. Node.js is a runtime environment that allows JavaScript code to execute outside of the browser, opening up new possibilities. With Node.js, developers can use JavaScript to handle back-end logic, connect to databases, serve APIs, and manage server resources.
 
 ---
+References[^1]
 
-[^1] Kapoor, S. (2025). Beginning JavaScript syntax : understanding syntactical rules and structures for better JavaScript programming. Apress. https://doi.org/10.1007/979-8-8688-1460-0
+[^1]: Kapoor, S. (2025). Beginning JavaScript syntax : understanding syntactical rules and structures for better JavaScript programming. Apress. https://doi.org/10.1007/979-8-8688-1460-0

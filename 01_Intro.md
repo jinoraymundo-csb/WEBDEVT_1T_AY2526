@@ -7,8 +7,6 @@
 
 ---
 
-Reference[^1]
-
 # What is Syntax?
 
 **Syntax** refers to the set of rules that dictate how code must be written to be understood by the computer. 
@@ -109,4 +107,6 @@ This gives JavaScript a high level of flexibility and enables developers to see 
 
 ---
 
-[^1] Kapoor, S. (2025). Beginning JavaScript syntax : understanding syntactical rules and structures for better JavaScript programming. Apress. https://doi.org/10.1007/979-8-8688-1460-0
+References[^1]
+
+[^1]: Kapoor, S. (2025). Beginning JavaScript syntax : understanding syntactical rules and structures for better JavaScript programming. Apress. https://doi.org/10.1007/979-8-8688-1460-0

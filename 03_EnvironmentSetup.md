@@ -7,10 +7,6 @@
 
 ---
 
-Reference [^1]
-
----
-
 # Objective
 
 Starting a journey in JavaScript programming requires a properly configured environment. Having the right tools can make a significant difference in learning efficiency and ease, especially for beginners.
@@ -94,4 +90,6 @@ For quick JavaScript testing, online playgrounds are a fantastic option. These p
 
 ---
 
-[^1] Kapoor, S. (2025). Beginning JavaScript syntax : understanding syntactical rules and structures for better JavaScript programming. Apress. https://doi.org/10.1007/979-8-8688-1460-0
+References[^1]
+
+[^1]: Kapoor, S. (2025). Beginning JavaScript syntax : understanding syntactical rules and structures for better JavaScript programming. Apress. https://doi.org/10.1007/979-8-8688-1460-0
