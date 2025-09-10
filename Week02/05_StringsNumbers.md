@@ -1,3 +1,28 @@
+- [Objective](#objective)
+- [String Literals and Template Strings](#string-literals-and-template-strings)
+  - [String Literals](#string-literals)
+  - [When to use which?](#when-to-use-which)
+- [String Methods, Manipulation and Comparison](#string-methods-manipulation-and-comparison)
+  - [Common String Attributes and Methods](#common-string-attributes-and-methods)
+  - [String Comparisons](#string-comparisons)
+    - [Basic String Comparison (Lexical Comparison)](#basic-string-comparison-lexical-comparison)
+    - [Case Sensitivity in Comparisons](#case-sensitivity-in-comparisons)
+    - [String Comparisons with Special Characters](#string-comparisons-with-special-characters)
+    - [Locale-Sensitive Comparisons](#locale-sensitive-comparisons)
+    - [Using `includes()`, `startsWith()`, and `endsWith()` for Substring Comparisons](#using-includes-startswith-and-endswith-for-substring-comparisons)
+- [Working with Numbers: Math Operations and Methods](#working-with-numbers-math-operations-and-methods)
+  - [Basic Math Operations](#basic-math-operations)
+  - [Math Methods and Rounding](#math-methods-and-rounding)
+- [Type Coercion and Equality](#type-coercion-and-equality)
+  - [What is Type Coercion?](#what-is-type-coercion)
+  - [Equality in JavaScript](#equality-in-javascript)
+    - [Why does this Matter?](#why-does-this-matter)
+- [Implicit String and Number Conversion](#implicit-string-and-number-conversion)
+- [Precision Limitations with Floating-Point Numbers](#precision-limitations-with-floating-point-numbers)
+- [The NaN Type and Its Unusual Properties](#the-nan-type-and-its-unusual-properties)
+- [The Strange Case of `typeof` and `null`](#the-strange-case-of-typeof-and-null)
+
+
 # Objective
 
 A key focus will be on understanding JavaScript’s unique type system, covering topics such as string literals and operations, number precision and its issues, type coercion, equality quirks, and common pitfalls. By recognizing these type quirks early on, you’ll gain insight into how JavaScript interprets data in different contexts and avoid common errors that can arise from implicit type conversion and unexpected behavior. This foundation will prepare you to write more predictable and reliable JavaScript code.
@@ -436,3 +461,7 @@ console.log(typeof null); // "object"
 ```
 
 ---
+
+References[^1]
+
+[^1]: Kapoor, S. (2025). Beginning JavaScript syntax : understanding syntactical rules and structures for better JavaScript programming. Apress. https://doi.org/10.1007/979-8-8688-1460-0

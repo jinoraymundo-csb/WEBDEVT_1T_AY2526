@@ -458,3 +458,7 @@ const fetchData = async () => {
 > This ensures that `fetchData` remains a constant function and cannot be accidentally overwritten
 
 ---
+
+References[^1]
+
+[^1]: Kapoor, S. (2025). Beginning JavaScript syntax : understanding syntactical rules and structures for better JavaScript programming. Apress. https://doi.org/10.1007/979-8-8688-1460-0
