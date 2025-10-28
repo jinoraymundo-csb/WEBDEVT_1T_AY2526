@@ -132,6 +132,7 @@ Start with the following files:
     <link rel="stylesheet" href="css/style.css">
   </head>
   <body>
+      <input type="button" id="load-btn">
       <header></header>
       <section></section>
       <script src="script.js"></script>      
@@ -246,7 +247,7 @@ Next, we use a `for...of` loop to iterate through each object in the array. For 
 To wrap up this deliverable, and as the last line of `js/script.js`:
 
 ```
-populate();
+document.getElementById("load-btn").addEventListener("click", populate);
 ```
 
 Final Output:
