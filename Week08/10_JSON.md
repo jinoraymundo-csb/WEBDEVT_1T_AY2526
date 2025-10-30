@@ -135,7 +135,7 @@ Start with the following files:
       <input type="button" id="load-btn">
       <header></header>
       <section></section>
-      <script src="script.js"></script>      
+      <script src="js/script.js"></script>      
   </body>
 </html>
 ```
