@@ -132,7 +132,7 @@ Start with the following files:
     <link rel="stylesheet" href="css/style.css">
   </head>
   <body>
-      <input type="button" id="load-btn">
+      <input type="button" id="load-btn" value="Load JSON data">
       <header></header>
       <section></section>
       <script src="js/script.js"></script>      
