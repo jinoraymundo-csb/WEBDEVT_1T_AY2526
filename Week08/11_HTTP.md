@@ -99,7 +99,8 @@ A call to a non-safe method, that may change the state of the server
 Idempotent
 : An HTTP method is idempotent if the intended effect on the server of making a single request is the same as the effect of making several identical requests
 
-> [!NOTE] To be idempotent, only the state of the server is considered. The response returned by each request may differ: for example, the first call of a DELETE will likely return a 200, while successive ones will likely return a 404.
+> [!NOTE]
+> To be idempotent, only the state of the server is considered. The response returned by each request may differ: for example, the first call of a DELETE will likely return a 200, while successive ones will likely return a 404.
 
 `GET /customers/profile.html HTTP/1.1`
 
@@ -206,5 +207,6 @@ HTTP response status codes indicate whether a specific HTTP request has been suc
 
 503 Service Unavailable
 : The server is not ready to handle the request. Common causes are a server that is down for maintenance or that is overloaded.
+
 
 ---
